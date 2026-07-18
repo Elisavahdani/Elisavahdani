@@ -12,9 +12,8 @@ const response= {
   location: "Tabriz, Iran",
   role: "Software Engineering Student",
   focus: ["Full-Stack Development", "App Development"],
-  skills: ["javascript","Next.js", "Node.js", "Flutter", "Figma"],
-  
-   status: "Always learning and building cool things!",
+ 
+ status: "Always learning and building cool things!",
 };
 ```
 ---
@@ -23,7 +22,7 @@ const response= {
 ### ✨ About Me
 
 I am a passionate Software Engineering student dedicated to crafting seamless digital experiences. My journey involves bridging the gap between elegant design (UI/UX) and robust backend logic. I thrive on solving complex problems and building scalable applications that make an impact.
-🌱Learning Journey: 
+
 ### 🌱 Learning Journey
 
 Always curious, constantly learning, and exploring the next frontier of software development
@@ -43,10 +42,10 @@ Always curious, constantly learning, and exploring the next frontier of software
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Elisavahdani_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elisavahdani&layout=compact&theme=radical)
 
-### 👋 Connect with me
+### ✉️ Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](YOUR_TELEGRAM_URL)
