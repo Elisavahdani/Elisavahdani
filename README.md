@@ -19,28 +19,14 @@ const response= {
 ```
 ---
 
-### 👨‍💻 About Me :
-
-I am a Software Engineering Student a a Full-Stack Developer from Iran. 🇮🇷
-
-🔭 I’m currently work on: Building scalable web applications using modern frameworks like Next.js and Node.js, and crafting beautiful mobile experiences with Flutter.
-
-🌱 Learning Journey: Deep diving into Software Architecture and advance UI/UX principles to build more robust digital products.
-
-⚡ In my free time: I love exploring new tech stacks, solving coding challenges, and sketching app interfaces on Figma.
-
-📫 How to reach me:
-[<img src="https:/img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](لینک_لینکدین_شما) | [<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white
-
-
 
 ### ✨ About Me
 
 I am a passionate Software Engineering student dedicated to crafting seamless digital experiences. My journey involves bridging the gap between elegant design (UI/UX) and robust backend logic. I thrive on solving complex problems and building scalable applications that make an impact.
-
+🌱Learning Journey: 
 ### 🌱 Learning Journey
 
-Constantly exploring new technologies and diving deeper into the core principles of software engineering to evolve every single day.
+Always curious, constantly learning, and exploring the next frontier of software development
 
 ### 🛠️ Tech Stack
 
