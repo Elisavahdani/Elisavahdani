@@ -34,7 +34,7 @@ I am a Software Engineering Student a a Full-Stack Developer from Iran. 🇮🇷
 # 👋 Hi there, I'm Elisa Vahdani
 
 <div align="center">
-`javascript
+```javascript
 const developer = {
   name: "Elisa Vahdani",
   role: "Software Engineering Student",
@@ -43,4 +43,4 @@ const developer = {
   status: "Building something amazing..."
 };
 
-console.log(`Welcome to my digital space, ${developer.name}!`);
+console.log(`Welcome to my digital space, ${developer.name}!`);```
