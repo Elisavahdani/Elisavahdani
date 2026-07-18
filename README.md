@@ -8,13 +8,13 @@
 
 ```javascript
 const response= {
-  fullName: "Elisa Vahdani",
-  education: "Software Engineering student",
+  name: "Elisa Vahdani",
   location: "Tabriz, Iran",
-  expertise: ["Web Development", "App Development"],
-  techStack: ["javascript", "Next.js", "Node.js", "Flutter"],
+  role: "Software Engineering Student",
+  focus: ["Full-Stack Development", "App Development"],
+  skills: ["javascript","Next.js", "Node.js", "Flutter", "Figma"],
   
-  status: "Always learning and building cool things!",
+   status: "Always learning and building cool things!",
 };
 ```
 ---
@@ -31,16 +31,38 @@ I am a Software Engineering Student a a Full-Stack Developer from Iran. 🇮🇷
 
 📫 How to reach me:
 [<img src="https:/img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](لینک_لینکدین_شما) | [<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white
-# 👋 Hi there, I'm Elisa Vahdani
 
-<div align="center">
-```javascript
-const developer = {
-  name: "Elisa Vahdani",
-  role: "Software Engineering Student",
-  focus: ["Full-Stack Development", "Mobile Apps"],
-  skills: ["Next.js", "Node.js", "Flutter", "Figma"],
-  status: "Building something amazing..."
-};
 
-console.log(`Welcome to my digital space, ${developer.name}!`);```
+
+### ✨ About Me
+
+I am a passionate Software Engineering student dedicated to crafting seamless digital experiences. My journey involves bridging the gap between elegant design (UI/UX) and robust backend logic. I thrive on solving complex problems and building scalable applications that make an impact.
+
+### 🌱 Learning Journey
+
+Constantly exploring new technologies and diving deeper into the core principles of software engineering to evolve every single day.
+
+### 🛠️ Tech Stack
+
+<!-- Frontend & Mobile -->
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<!-- Backend & Tools -->
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+### 👋 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](YOUR_TELEGRAM_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+
