@@ -9,7 +9,7 @@
 ```javascript
 const response= {
   fullName: "Elisa Vahdani",
-  education: "Software Engineering @  University of Tabriz",
+  education: "Software Engineering student",
   location: "Tabriz, Iran",
   expertise: ["Web Development", "App Development"],
   techStack: ["javascript", "Next.js", "Node.js", "Flutter"],
@@ -31,3 +31,16 @@ I am a Software Engineering Student a a Full-Stack Developer from Iran. 🇮🇷
 
 📫 How to reach me:
 [<img src="https:/img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](لینک_لینکدین_شما) | [<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white
+# 👋 Hi there, I'm Elisa Vahdani
+
+<div align="center">
+`javascript
+const developer = {
+  name: "Elisa Vahdani",
+  role: "Software Engineering Student",
+  focus: ["Full-Stack Development", "Mobile Apps"],
+  skills: ["Next.js", "Node.js", "Flutter", "Figma"],
+  status: "Building something amazing..."
+};
+
+console.log(`Welcome to my digital space, ${developer.name}!`);
