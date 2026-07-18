@@ -1,10 +1,10 @@
-<h3 align="center">hey there Im Elisa Vahdani 👋</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Software+Engineering+Student;Full-Stack+Developer;App+%26+Web+Designer" alt="Typing SVG" />
-    <img src="https://github.com/user-attachments/assets/b4fdf7c9-9419-4150-b8e3-10e31fb43054">
+   
 </p>
-"https://github.com/user-attachments/assets/b4fdf7c9-9419-4150-b8e3-10e31fb43054"
+<img src="./banner2.svg" alt="Elisa Vahdani Banner" width="100%">
 ---
 
 ```javascript
