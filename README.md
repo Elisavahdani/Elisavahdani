@@ -1,4 +1,4 @@
-<h1 align="center">سلام، من الیسا وحدانی هستم! 👋</h1>
+<h3 align="center">hey there Im Elisa Vahdani 👋</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Software+Engineering+Student;Full-Stack+Developer;App+%26+Web+Designer" alt="Typing SVG" />
