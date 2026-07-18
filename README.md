@@ -6,7 +6,6 @@
 
 ---
 
-### 💻 معرفی به زبان کد
 ```javascript
 const response= {
   fullName: "Elisa Vahdani",
