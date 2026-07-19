@@ -27,7 +27,7 @@ I love solving real-world problems through technology and continuously improving
 
 Always curious, constantly learning, and committed to building better software every day.
 
-### 🛠️ Tech Stack
+### 🛠️Languages and Tools :
 
 <!-- Frontend & Mobile -->
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
@@ -40,7 +40,7 @@ Always curious, constantly learning, and committed to building better software e
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### 📊 GitHub Stats
+### 📊 My Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Elisavahdani_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elisavahdani&layout=compact&theme=radical)
