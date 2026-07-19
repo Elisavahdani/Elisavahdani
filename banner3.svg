@@ -1,0 +1,38 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+    <!-- پس‌زمینه تیره عمیق -->
+    <rect width="1200" height="300" fill="#0a0a0a"/>
+    
+    <!-- افکت‌های نئونی انتزاعی در پس‌زمینه -->
+    <defs>
+        <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
+            <stop offset="0%" stop-color="#1a2a6c" stop-opacity="0.4"/>
+            <stop offset="100%" stop-color="#1a2a6c" stop-opacity="0"/>
+        </radialGradient>
+        <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
+            <stop offset="0%" stop-color="#b21f1f" stop-opacity="0.2"/>
+            <stop offset="100%" stop-color="#b21f1f" stop-opacity="0"/>
+        </radialGradient>
+    </defs>
+
+    <!-- پخش کردن نورها در گوشه‌ها -->
+    <circle cx="100" cy="100" r="300" fill="url(#glow1)"/>
+    <circle cx="1100" cy="200" r="300" fill="url(#glow2)"/>
+
+    <!-- خطوط هندسی بسیار ظریف برای حس تکنولوژی -->
+    <path d="M0 150 Q 300 100 600 150 T 1200 150" stroke="#ffffff" stroke-width="0.5" fill="none" opacity="0.1"/>
+    <path d="M0 170 Q 300 120 600 170 T 1200 170" stroke="#ffffff" stroke-width="0.5" fill="none" opacity="0.05"/>
+
+    <!-- متن اصلی: نام شما -->
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" 
+          fill="#ffffff" 
+          style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 64px; font-weight: 700; letter-spacing: 8px; text-shadow: 0 0 20px rgba(255,255,255,0.5);">
+        ELISA VAHDANI
+    </text>
+    
+    <!-- زیرعنوان: نقش شما -->
+    <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" 
+          fill="#888888" 
+          style="font-family: 'Segoe UI', sans-serif; font-size: 18px; font-weight: 300; letter-spacing: 4px;">
+        FULL-STACK DEVELOPER
+    </text>
+</svg>
