@@ -35,6 +35,7 @@
   
   <!-- Subtitle or Role -->
   <text x="50%" y="65%" font-family="Arial, sans-serif" font-size="20" fill="#00d4ff" text-anchor="middle" dominant-baseline="middle" style="letter-spacing: 10px; opacity: 0.8;">
+
     FULL-STACK DEVELOPER
   </text>
 </svg>
