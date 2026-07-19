@@ -10,10 +10,13 @@
 ```javascript
 const response= {
   name: "Elisa Vahdani",
+  birthDay: "2002 July 2, tuesday",
   location: "Tabriz, Iran",
-  role: "Software Engineering Student",
-  focus: ["Full-Stack Development", "App Development"],
- 
+  focus:"Web Applications",
+  "Cross-Platform Applications",
+  "WordPress Plugins",
+  "Business Software",
+  "UI/UX Design"
  status: "Always learning and building cool things!",
 };
 ```
@@ -22,11 +25,10 @@ const response= {
 
 ### ✨ About Me
 
-I am a passionate Software Engineering student dedicated to crafting seamless digital experiences. My journey involves bridging the gap between elegant design (UI/UX) and robust backend logic. I thrive on solving complex problems and building scalable applications that make an impact.
+I'm a passionate Full-Stack Developer who enjoys turning ideas into modern, scalable digital products. I specialize in building web applications, cross-platform applications, and WordPress plugins, combining clean architecture with intuitive user experiences.
+I love solving real-world problems through technology and continuously improving my skills by exploring modern tools, frameworks, and best development practices.
 
-### 🌱 Learning Journey
-
-Always curious, constantly learning, and exploring the next frontier of software development
+Always curious, constantly learning, and committed to building better software every day.
 
 ### 🛠️ Tech Stack
 
