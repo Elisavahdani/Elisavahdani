@@ -26,7 +26,7 @@ I'm a passionate Full-Stack Developer who enjoys turning ideas into modern, scal
 I love solving real-world problems through technology and continuously improving my skills by exploring modern tools, frameworks, and best development practices.
 
 Always curious, constantly learning, and committed to building better software every day.
-
+___
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -46,24 +46,14 @@ Always curious, constantly learning, and committed to building better software e
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Elisavahdani_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elisavahdani&layout=compact&theme=radical)
 
-### ✉️ Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](YOUR_TELEGRAM_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
-
-<h2 align="center">📬 Get in Touch</h2>
-
-<p align="center">
+## 📫 Contact Me<p >
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://t.me/your_telegram_username">
-    <img src="https://img.shields.io/badge/Telegram-38BDF8?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <a href="https://t.me/yourusername">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" />
   </a>
 </p>
