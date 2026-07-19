@@ -43,13 +43,13 @@ ___
 
 
 ## 📫 Contact Me<p >
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:elisavahdani5@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://t.me/yourusername">
+  <a href="https://t.me/eliwsa">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" />
   </a>
 </p>
